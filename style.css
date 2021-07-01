@@ -94,7 +94,7 @@ body{
 
 #img2-1-draggable{
     position: relative;
-    left: px;
+    left: 0px;
     top: 200px;
     transform: scale(1);
 }
@@ -108,8 +108,8 @@ body{
 
 #img2-3-draggable{
     position: relative;
-    left: 400px;
-    top: 200px;
+    left: 100px;
+    top: 0px;;
     transform: scale(1);
 }
 
@@ -117,18 +117,21 @@ body{
 
 #img3-1-draggable{
     position: relative;
-    left: 400px;
+    left: 100px;
+    top: 200PX;
     transform: scale(1);
 }
 
 #img3-2-draggable{
     position: relative;
-    
+    left: 100px;
+    top: 400PX;
     transform: scale(1);
 }
 
 #img3-3-draggable{
     position: relative;
-   left: 200px;
+    left: 100px;
+    top: 300PXpx;
     transform: scale(1);
 }
